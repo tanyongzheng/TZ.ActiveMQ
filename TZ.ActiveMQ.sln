@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TZ.ActiveMQ.Client", "TZ.ActiveMQ.Client\TZ.ActiveMQ.Client.csproj", "{6F0CD545-2A45-487E-BC7E-0A1FBEE35B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F0CD545-2A45-487E-BC7E-0A1FBEE35B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0CD545-2A45-487E-BC7E-0A1FBEE35B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0CD545-2A45-487E-BC7E-0A1FBEE35B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0CD545-2A45-487E-BC7E-0A1FBEE35B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BA5490C-1D9A-4F32-BFCA-6047E1C3DEF0}
+	EndGlobalSection
+EndGlobal
